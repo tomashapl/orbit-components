@@ -92,13 +92,13 @@ exports[`Storyshots Checkbox default 1`] = `
         }
       >
         <div
-          className="jsx-564223145"
+          className="jsx-176742369"
         >
           <label
-            className="jsx-564223145 label"
+            className="jsx-176742369 label"
           >
             <div
-              className="jsx-564223145 checkbox"
+              className="jsx-176742369 checkbox"
             />
             <span
               className="jsx-1620445214"
@@ -107,7 +107,7 @@ exports[`Storyshots Checkbox default 1`] = `
             </span>
             <input
               checked={false}
-              className="jsx-564223145 checkboxInput"
+              className="jsx-176742369 checkboxInput"
               onChange={[Function]}
               type="checkbox"
             />
